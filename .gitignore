@@ -5,7 +5,3 @@
 *.war
 *.ear
 /bin
-
-# Eclipse Files #
-.classpath
-.project
