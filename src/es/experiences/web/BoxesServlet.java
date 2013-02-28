@@ -33,6 +33,7 @@ public class BoxesServlet extends HttpServlet {
 	static {
 		BOXES.add(new Box(UUID.randomUUID().toString(),"brasil-con-encanto","Brasil con encanto", true));
 		BOXES.add(new Box(UUID.randomUUID().toString(),"usa-ruta-66","Conoceras Radiador Spring", false));
+		BOXES.add(new Box(UUID.randomUUID().toString(),"Madrid-Calle 30","Rio Manzanares limpio", false));
 	}
 
 	/**
